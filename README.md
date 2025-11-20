@@ -89,10 +89,11 @@ O arquivo **`analise_sindrome_gripal.py`** contém a função `run_analysis()`, 
    - `Notificações de Síndrome Gripal_SP_2024.csv`
 
 2. Instale as dependências (via `pip`, por exemplo):
-
-```bash
+---
 pip install pandas matplotlib seaborn scipy
+---
 
 Execute o script:
-
+---
 python analise_sindrome_gripal.py
+---
