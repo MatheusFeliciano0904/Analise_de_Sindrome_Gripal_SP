@@ -19,7 +19,7 @@ def run_analysis():
     # 2. Quais os sintomas mais comuns em cada ano?
     # 3. Qual a taxa de evolução (cura, cancelado(óbito), ignorado) em cada ano?
     # 4. Há diferenças estatísticas significativas entre os anos para idade, sintomas e evolução?
-    # 5. Visualizações gráficas para comparar os anos.
+    # 5. Visualizações gráficas para comparar as idades.
     # --- FIM DAS PERGUNTAS ---
     
     #  1 ** --- CONFIGURAÇÕES INICIAIS ---
